@@ -1,0 +1,25 @@
+button{
+  padding-inline: 10px;
+  border: transparent;
+}
+button:hover{
+  color: white;
+  background-color:#ec0606 ;
+}
+
+
+b{
+  font-size: 1.2em;
+  font-size: larger;
+
+}
+#mnm{
+  border: 1px solid #533b4d;
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+}
+#mnm:hover{
+  background-color: #533b4d ;
+  color: white;
+}
